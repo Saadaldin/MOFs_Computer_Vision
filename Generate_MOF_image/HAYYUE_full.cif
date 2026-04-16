@@ -1,0 +1,143 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_HAYYUE
+_audit_creation_date             2024-12-19
+_chemical_formula_moiety         '(C6 H2 Cl2 Fe2 N6)n'
+_symmetry_cell_setting           rhombohedral
+_symmetry_space_group_name_H-M   'R -3 m'
+_symmetry_Int_Tables_number      166
+_space_group_name_Hall           '-R 3 2"'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-x+y,-z
+3 -x+y,-x,z
+4 -y,x-y,z
+5 y,x,-z
+6 x-y,-y,-z
+7 2/3-x,1/3-x+y,1/3-z
+8 2/3-x+y,1/3-x,1/3+z
+9 2/3-y,1/3+x-y,1/3+z
+10 2/3+y,1/3+x,1/3-z
+11 2/3+x-y,1/3-y,1/3-z
+12 2/3+x,1/3+y,1/3+z
+13 1/3-x,2/3-x+y,2/3-z
+14 1/3-x+y,2/3-x,2/3+z
+15 1/3-y,2/3+x-y,2/3+z
+16 1/3+y,2/3+x,2/3-z
+17 1/3+x-y,2/3-y,2/3-z
+18 1/3+x,2/3+y,2/3+z
+19 -x,-y,-z
+20 x,x-y,z
+21 x-y,x,-z
+22 y,-x+y,-z
+23 -y,-x,z
+24 -x+y,y,z
+25 1/3+x,2/3+x-y,2/3+z
+26 1/3+x-y,2/3+x,2/3-z
+27 1/3+y,2/3-x+y,2/3-z
+28 1/3-y,2/3-x,2/3+z
+29 1/3-x+y,2/3+y,2/3+z
+30 1/3-x,2/3-y,2/3-z
+31 2/3+x,1/3+x-y,1/3+z
+32 2/3+x-y,1/3+x,1/3-z
+33 2/3+y,1/3-x+y,1/3-z
+34 2/3-y,1/3-x,1/3+z
+35 2/3-x+y,1/3+y,1/3+z
+36 2/3-x,1/3-y,1/3-z
+_cell_length_a                   25.1565(12)
+_cell_length_b                   25.1565(12)
+_cell_length_c                   8.2321(4)
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_volume                     4511.72
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+N1 N 0.2559(9) 0.3116(7) 0.2092(18) 0.0460 Uiso
+N2 N 0.2940(10) 0.333333 0.333333 0.0460 Uiso
+C1 C 0.2100(8) 0.3238(5) 0.2516(8) 0.0460 Uiso
+C2 C 0.1535(11) 0.307(1) 0.1730(17) 0.0460 Uiso
+H1 H 0.143327 0.286655 0.056898 0.0460 Uiso
+Fe1 Fe 0.28877(19) 0.28877(19) 0.000000 0.0520 Uiso
+Cl1 Cl 0.333333 0.2438(4) 0.166667 0.0770 Uiso
+N1W N 0.0557(11) 0.3116(7) 0.2092(18) 0.0460 Uiso
+N2W N 0.0393(10) 0.333333 0.333333 0.0460 Uiso
+C1W C 0.1138(9) 0.3238(5) 0.2516(8) 0.0460 Uiso
+N1CA N 0.0774(9) 0.3551(7) 0.4575(18) 0.0460 Uiso
+C1CA C 0.1233(8) 0.3429(5) 0.4151(8) 0.0460 Uiso
+C2CA C 0.1798(11) 0.360(1) 0.4937(17) 0.0460 Uiso
+H1CA H 0.190006 0.380012 0.609769 0.0460 Uiso
+N1P N 0.2776(11) 0.3551(7) 0.4575(18) 0.0460 Uiso
+C1P C 0.2195(9) 0.3429(5) 0.4151(8) 0.0460 Uiso
+Fe1W Fe 0.00000(27) 0.28877(19) 0.000000 0.0520 Uiso
+Cl1W Cl -0.08953(40) 0.2438(4) 0.166667 0.0770 Uiso
+N1D N 0.3116(7) 0.2559(9) -0.2092(18) 0.0460 Uiso
+N1T N -0.0557(11) 0.2559(9) -0.2092(18) 0.0460 Uiso
+N2F N 0.3727(10) 0.3727(10) 0.000000 0.0460 Uiso
+N2FA N -0.000000 0.3727(10) 0.000000 0.0460 Uiso
+Fe1F Fe 0.37790(19) 0.33333(27) 0.333333 0.0520 Uiso
+Fe1FA Fe -0.04456(19) 0.33333(27) 0.333333 0.0520 Uiso
+Fe1CA Fe 0.04456(19) 0.37790(19) 0.666667 0.0520 Uiso
+Fe1M Fe 0.33333(27) 0.37790(19) 0.666667 0.0520 Uiso
+Cl1D Cl 0.2438(4) 0.333333 -0.166667 0.0770 Uiso
+Cl1T Cl 0.08953(40) 0.333333 -0.166667 0.0770 Uiso
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+N1 N2 1_555 1_555
+N2 N1P 1_555 1_555
+C1 N1 1_555 1_555
+C2 C1 1_555 1_555
+H1 C2 1_555 1_555
+Fe1 N1 1_555 1_555
+Cl1 Fe1 1_555 1_555
+N1W N2W 1_555 1_555
+N2W N1CA 1_555 1_555
+C1W C2 1_555 1_555
+N1CA C1CA 1_555 1_555
+C1CA C1W 1_555 1_555
+C2CA C1CA 1_555 1_555
+H1CA C2CA 1_555 1_555
+N1P C1P 1_555 1_555
+C1P C1 1_555 1_555
+Fe1W N1W 1_555 1_555
+Cl1W Fe1W 1_555 1_555
+N1D Fe1 1_555 1_555
+N1T Fe1W 1_555 1_555
+N2F Fe1 1_555 1_555
+N2FA Fe1W 1_555 1_555
+Fe1F N2 1_555 1_555
+Fe1FA N2W 1_555 1_555
+Fe1CA N1CA 1_555 1_555
+Fe1M N1P 1_555 1_555
+Cl1D Fe1 1_555 1_555
+Cl1T Fe1W 1_555 1_555
+Cl1 Fe1F 1_555 1_555
+N1W C1W 1_555 1_555
+C2CA C1P 1_555 1_555
+Cl1W Fe1FA 1_555 1_555
+
+#END
