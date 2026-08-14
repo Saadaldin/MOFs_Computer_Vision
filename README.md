@@ -13,7 +13,7 @@ A computer vision-based workflow is developed to recognize unique pore shapes in
 
 (3) A convolutional neural networks-based autoencoder (CNN-E) is also employed to learn a compressed latent representation of the images.
 
-<img width="468" height="170" alt="image" src="https://github.com/user-attachments/assets/2397e705-dc55-4ea3-995f-af8e1a0fbae6" />
+<img width="468" height="170" alt="image" src="https://github.com/user-attachments/assets/e20c2c0b-d104-400a-8012-7b12c8cd487c" />
 
 
 
